@@ -34,11 +34,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos nos bastidores.
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/gustavosooares">
-    <img src="https://github-readme-stats.vercel.app/api?username=gustavosooares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Gustavo" height="180"/>
-  </a>
-  <a href="https://github.com/gustavosooares">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosooares&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" height="180"/>
-  </a>
-</p>
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavosooares&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/gustavosooares)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosooares&layout=compact&theme=tokyonight)](https://github.com/gustavosooares)
