@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos nos bastidores.
 - 🔭 **O meu foco atual:** Desenvolvimento Back-end com Python e arquitetura de Banco de Dados Relacional.
 - 🌱 **Aprimorando conhecimentos em:** Criação de APIs, PostgreSQL avançado (SQL, Triggers, Views) e automação de processos.
 - 💼 **Projeto em Destaque:** Arquitetura e desenvolvimento de um **Sistema de Controle Logístico**. Criei toda a estrutura de banco de dados (PostgreSQL + SQLAlchemy), lógica de baixa de estoque em tempo real, controle de concorrência e disparo de e-mails automatizados.
-- 📫 **Como falar comigo:** [LinkedIn](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+- 📫 **Como falar comigo:** [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-06853a1b8)
 
 ---
 
@@ -32,8 +32,3 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos nos bastidores.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavosooares&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/gustavosooares)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosooares&layout=compact&theme=tokyonight)](https://github.com/gustavosooares)
